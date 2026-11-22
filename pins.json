@@ -1,0 +1,9 @@
+{
+  "jk": {
+    "stable": {
+      "sha256": "8c5e6069faced68f97a4fb4257ce5b9b3650b1d577a8468460e9a97d3936592c",
+      "version": "0.54.0"
+    }
+  },
+  "templates": "9f54221c38475fc5f08e44cd5d4e4506f757e5f8"
+}
