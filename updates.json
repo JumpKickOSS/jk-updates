@@ -1,5 +1,5 @@
 {
-  "published": "2026-11-22T16:58:36Z",
+  "published": "2026-11-23T21:29:29Z",
   "jk": {
     "stable": {
       "version": "0.54.0",
@@ -18,9 +18,9 @@
       "sha256": "a3b40896abe9d9f8ce71084f87e0093e7a53106af5d834fe777136aea1f44d55"
     },
     "jdks": {
-      "version": "15e0c9f6052b",
+      "version": "da7de96c6fb4",
       "file": "jdks.json",
-      "sha256": "15e0c9f6052b15a99e003fde5ca8175ef4605a9d9730f3fa97bd6fdd58d9969d"
+      "sha256": "da7de96c6fb42b2d2937ead07d00d55713e88d78b8f0338bba1bfbd052ffeb18"
     },
     "templates": {
       "version": "9f54221c38475fc5f08e44cd5d4e4506f757e5f8"
