@@ -1,5 +1,5 @@
 {
-  "published": "2026-11-24T15:51:56Z",
+  "published": "2026-11-24T15:55:14Z",
   "jk": {
     "stable": {
       "version": "0.60.0",
@@ -23,7 +23,7 @@
       "sha256": "9762ef482a93d0aa9412ceb6cdcbcfcb281e4aecdca55e1ddbecafa8fccbab02"
     },
     "templates": {
-      "version": "9f54221c38475fc5f08e44cd5d4e4506f757e5f8"
+      "version": "465a1e162bfce6abe9d46f2efa62928f371787c4"
     }
   }
 }
