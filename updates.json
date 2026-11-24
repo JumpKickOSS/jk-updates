@@ -1,9 +1,9 @@
 {
-  "published": "2026-11-24T09:59:39Z",
+  "published": "2026-11-24T15:51:56Z",
   "jk": {
     "stable": {
-      "version": "0.54.0",
-      "sha256": "8c5e6069faced68f97a4fb4257ce5b9b3650b1d577a8468460e9a97d3936592c"
+      "version": "0.60.0",
+      "sha256": "1df1beea0c6fc6757d27e357996c2cde0224cc538ba0617f497165a4797aacb3"
     }
   },
   "data": {
@@ -18,9 +18,9 @@
       "sha256": "a3b40896abe9d9f8ce71084f87e0093e7a53106af5d834fe777136aea1f44d55"
     },
     "jdks": {
-      "version": "c81b3cf7efda",
+      "version": "9762ef482a93",
       "file": "jdks.json",
-      "sha256": "c81b3cf7efdab808d367d01c458e79e9fb407d3d1a85195777fbbc590bdceb16"
+      "sha256": "9762ef482a93d0aa9412ceb6cdcbcfcb281e4aecdca55e1ddbecafa8fccbab02"
     },
     "templates": {
       "version": "9f54221c38475fc5f08e44cd5d4e4506f757e5f8"

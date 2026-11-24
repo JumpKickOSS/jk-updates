@@ -7934,29 +7934,29 @@
       "product": "Dragonwell",
       "flavour": "Extended",
       "jdk_version_major": 21,
-      "jdk_version": "21.0.13",
+      "jdk_version": "21.0.13.1",
       "suggested_sdk_name": "dragonwell-ex-21",
       "shared_index_aliases": [
-        "dragonwell-ex-21.0.13",
+        "dragonwell-ex-21.0.13.1",
         "dragonwell-ex-21",
-        "21.0.13",
+        "21.0.13.1",
         "21"
       ],
       "packages": [
         {
           "os": "linux",
           "arch": "aarch64",
-          "version": "21.0.13.0.13+9",
-          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.0.13%2B9_jdk-21.0.13-ga/Alibaba_Dragonwell_Extended_21.0.13.0.13.9_aarch64_linux.tar.gz",
+          "version": "21.0.13.1.14+2",
+          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.1.14%2B2_jdk-21.0.13.1-ga/Alibaba_Dragonwell_Extended_21.0.13.1.14.2_aarch64_linux.tar.gz",
           "package_type": "targz",
-          "unpack_prefix_filter": "dragonwell-21.0.13.0.13+9-GA",
-          "package_root_prefix": "dragonwell-21.0.13.0.13+9-GA",
+          "unpack_prefix_filter": "dragonwell-21.0.13.1.14+2-GA",
+          "package_root_prefix": "dragonwell-21.0.13.1.14+2-GA",
           "package_to_java_home_prefix": "",
-          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.0.13.9_aarch64_linux.tar.gz",
-          "install_folder_name": "dragonwell-ex-21.0.13",
-          "archive_size": 216990074,
-          "unpacked_size": 397925183,
-          "sha256": "2b2e5df7449a0c7c8764e2fbf169420a588224723b3ed839424e6f7743dfcdbe",
+          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.1.14.2_aarch64_linux.tar.gz",
+          "install_folder_name": "dragonwell-ex-21.0.13.1",
+          "archive_size": 217018274,
+          "unpacked_size": 397952891,
+          "sha256": "6821e3ed2f4c1a86648221f41c0b41484fcded744d4400ca64a13001080c8145",
           "filter": {
             "type": "supports_arch",
             "arch": "aarch64"
@@ -10841,99 +10841,6 @@
           "archive_size": 190273787,
           "unpacked_size": 320407807,
           "sha256": "675a739ab89b28a8db89510f87cb2ec3206ec6662fb4b4996264c16c72cdd2a1"
-        }
-      ]
-    },
-    {
-      "vendor": "Oracle",
-      "product": "OpenJDK",
-      "eol": true,
-      "jdk_version_major": 11,
-      "jdk_version": "11.0.2",
-      "suggested_sdk_name": "openjdk-11",
-      "shared_index_aliases": [
-        "openjdk-11.0.2",
-        "openjdk-11",
-        "11.0.2",
-        "11"
-      ],
-      "packages": [
-        {
-          "os": "linux",
-          "arch": "x86_64",
-          "version": "11.0.2",
-          "url": "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_linux-x64_bin.tar.gz",
-          "package_type": "targz",
-          "unpack_prefix_filter": "jdk-11.0.2",
-          "package_root_prefix": "jdk-11.0.2",
-          "package_to_java_home_prefix": "",
-          "archive_file_name": "openjdk-11.0.2_linux-x64_bin.tar.gz",
-          "install_folder_name": "openjdk-11.0.2",
-          "archive_size": 187513052,
-          "unpacked_size": 309740959,
-          "sha256": "99be79935354f5c0df1ad293620ea36d13f48ec3ea870c838f20c504c9668b57"
-        }
-      ]
-    },
-    {
-      "vendor": "Oracle",
-      "product": "OpenJDK",
-      "eol": true,
-      "jdk_version_major": 11,
-      "jdk_version": "11.0.2",
-      "suggested_sdk_name": "openjdk-11",
-      "shared_index_aliases": [
-        "openjdk-11.0.2",
-        "openjdk-11",
-        "11.0.2",
-        "11"
-      ],
-      "packages": [
-        {
-          "os": "windows",
-          "arch": "x86_64",
-          "version": "11.0.2",
-          "url": "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_windows-x64_bin.zip",
-          "package_type": "zip",
-          "unpack_prefix_filter": "jdk-11.0.2",
-          "package_root_prefix": "jdk-11.0.2",
-          "package_to_java_home_prefix": "",
-          "archive_file_name": "openjdk-11.0.2_windows-x64_bin.zip",
-          "install_folder_name": "openjdk-11.0.2",
-          "archive_size": 187383323,
-          "unpacked_size": 298995408,
-          "sha256": "cf39490fe042dba1b61d6e9a395095279a69e70086c8c8d5466d9926d80976d8"
-        }
-      ]
-    },
-    {
-      "vendor": "Oracle",
-      "product": "OpenJDK",
-      "eol": true,
-      "jdk_version_major": 11,
-      "jdk_version": "11.0.2",
-      "suggested_sdk_name": "openjdk-11",
-      "shared_index_aliases": [
-        "openjdk-11.0.2",
-        "openjdk-11",
-        "11.0.2",
-        "11"
-      ],
-      "packages": [
-        {
-          "os": "macOS",
-          "arch": "x86_64",
-          "version": "11.0.2",
-          "url": "https://download.java.net/java/GA/jdk11/9/GPL/openjdk-11.0.2_osx-x64_bin.tar.gz",
-          "package_type": "targz",
-          "unpack_prefix_filter": "./jdk-11.0.2.jdk/Contents/Home",
-          "package_root_prefix": "./jdk-11.0.2.jdk",
-          "package_to_java_home_prefix": "Contents/Home",
-          "archive_file_name": "openjdk-11.0.2_osx-x64_bin.tar.gz",
-          "install_folder_name": "openjdk-11.0.2",
-          "archive_size": 182670822,
-          "unpacked_size": 299402773,
-          "sha256": "f365750d4be6111be8a62feda24e265d97536712bc51783162982b8ad96a70ee"
         }
       ]
     },
@@ -19320,29 +19227,29 @@
       "product": "Dragonwell",
       "flavour": "Extended",
       "jdk_version_major": 21,
-      "jdk_version": "21.0.13",
+      "jdk_version": "21.0.13.1",
       "suggested_sdk_name": "dragonwell-ex-21",
       "shared_index_aliases": [
-        "dragonwell-ex-21.0.13",
+        "dragonwell-ex-21.0.13.1",
         "dragonwell-ex-21",
-        "21.0.13",
+        "21.0.13.1",
         "21"
       ],
       "packages": [
         {
           "os": "linux",
           "arch": "x86_64",
-          "version": "21.0.13.0.13+9",
-          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.0.13%2B9_jdk-21.0.13-ga/Alibaba_Dragonwell_Extended_21.0.13.0.13.9_x64_linux.tar.gz",
+          "version": "21.0.13.1.14+2",
+          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.1.14%2B2_jdk-21.0.13.1-ga/Alibaba_Dragonwell_Extended_21.0.13.1.14.2_x64_linux.tar.gz",
           "package_type": "targz",
-          "unpack_prefix_filter": "dragonwell-21.0.13.0.13+9-GA",
-          "package_root_prefix": "dragonwell-21.0.13.0.13+9-GA",
+          "unpack_prefix_filter": "dragonwell-21.0.13.1.14+2-GA",
+          "package_root_prefix": "dragonwell-21.0.13.1.14+2-GA",
           "package_to_java_home_prefix": "",
-          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.0.13.9_x64_linux.tar.gz",
-          "install_folder_name": "dragonwell-ex-21.0.13",
-          "archive_size": 219078759,
-          "unpacked_size": 397281264,
-          "sha256": "9b1a05a13e343afea4c42c01110e058fbf8aea9cf317d712f31931acf36b4938"
+          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.1.14.2_x64_linux.tar.gz",
+          "install_folder_name": "dragonwell-ex-21.0.13.1",
+          "archive_size": 219110247,
+          "unpacked_size": 397325015,
+          "sha256": "67f5b71375c1b4ed6b3481dd6b590e15c7e0f60663639e687229a7317ce9ca2b"
         }
       ]
     },
@@ -19351,29 +19258,29 @@
       "product": "Dragonwell",
       "flavour": "Extended",
       "jdk_version_major": 21,
-      "jdk_version": "21.0.13",
+      "jdk_version": "21.0.13.1",
       "suggested_sdk_name": "dragonwell-ex-21",
       "shared_index_aliases": [
-        "dragonwell-ex-21.0.13",
+        "dragonwell-ex-21.0.13.1",
         "dragonwell-ex-21",
-        "21.0.13",
+        "21.0.13.1",
         "21"
       ],
       "packages": [
         {
           "os": "windows",
           "arch": "x86_64",
-          "version": "21.0.13.0.13+9",
-          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.0.13%2B9_jdk-21.0.13-ga/Alibaba_Dragonwell_Extended_21.0.13.0.13.9_x64_windows.zip",
+          "version": "21.0.13.1.14+2",
+          "url": "https://github.com/dragonwell-project/dragonwell21/releases/download/dragonwell-extended-21.0.13.1.14%2B2_jdk-21.0.13.1-ga/Alibaba_Dragonwell_Extended_21.0.13.1.14.2_x64_windows.zip",
           "package_type": "zip",
-          "unpack_prefix_filter": "dragonwell-21.0.13.0.13+9-GA",
-          "package_root_prefix": "dragonwell-21.0.13.0.13+9-GA",
+          "unpack_prefix_filter": "dragonwell-21.0.13.1.14+2-GA",
+          "package_root_prefix": "dragonwell-21.0.13.1.14+2-GA",
           "package_to_java_home_prefix": "",
-          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.0.13.9_x64_windows.zip",
-          "install_folder_name": "dragonwell-ex-21.0.13",
-          "archive_size": 212791759,
-          "unpacked_size": 374457297,
-          "sha256": "14d87653760d421b06b72fbfb75ec2f8c72dc90b2e1e377768d9495af9ca15a4"
+          "archive_file_name": "Alibaba_Dragonwell_Extended_21.0.13.1.14.2_x64_windows.zip",
+          "install_folder_name": "dragonwell-ex-21.0.13.1",
+          "archive_size": 213242001,
+          "unpacked_size": 375276023,
+          "sha256": "bf0f6ffd08d6003b37c35de3f84d3ab7e7d52db0231a52aa3d1d3c2342882336"
         }
       ]
     },
