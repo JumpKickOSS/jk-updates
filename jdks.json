@@ -17531,13 +17531,13 @@
       "product": "Temurin",
       "flavour": "AdoptOpenJDK HotSpot",
       "jdk_version_major": 8,
-      "jdk_version": "1.8.0_512",
+      "jdk_version": "1.8.0_514",
       "suggested_sdk_name": "temurin-1.8",
       "shared_index_aliases": [
-        "temurin-1.8.0_512",
+        "temurin-1.8.0_514",
         "temurin-8",
         "temurin-1.8",
-        "1.8.0_512",
+        "1.8.0_514",
         "8",
         "1.8"
       ],
@@ -17545,17 +17545,17 @@
         {
           "os": "macOS",
           "arch": "x86_64",
-          "version": "1.8.0_512",
-          "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u512-b09/OpenJDK8U-jdk_x64_mac_hotspot_8u512b09.tar.gz",
+          "version": "1.8.0_514",
+          "url": "https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u514-b01/OpenJDK8U-jdk_x64_mac_hotspot_8u514b01.tar.gz",
           "package_type": "targz",
-          "unpack_prefix_filter": "jdk8u512-b09/Contents/Home",
-          "package_root_prefix": "jdk8u512-b09",
+          "unpack_prefix_filter": "jdk8u514-b01/Contents/Home",
+          "package_root_prefix": "jdk8u514-b01",
           "package_to_java_home_prefix": "Contents/Home",
-          "archive_file_name": "OpenJDK8U-jdk_x64_mac_hotspot_8u512b09.tar.gz",
-          "install_folder_name": "temurin-1.8.0_512",
-          "archive_size": 108060281,
-          "unpacked_size": 222782395,
-          "sha256": "314e8acc9dd87a63e13c05345fa4a78bda567b452f7e956c80abd4c629851eff"
+          "archive_file_name": "OpenJDK8U-jdk_x64_mac_hotspot_8u514b01.tar.gz",
+          "install_folder_name": "temurin-1.8.0_514",
+          "archive_size": 108075599,
+          "unpacked_size": 222801157,
+          "sha256": "c365dded7ceab54c69de6834ba59ff9405c21731770bd929c19b82106e72c7fd"
         }
       ]
     },
