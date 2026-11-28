@@ -17405,29 +17405,29 @@
       "product": "Temurin",
       "flavour": "AdoptOpenJDK HotSpot",
       "jdk_version_major": 11,
-      "jdk_version": "11.0.33",
+      "jdk_version": "11.0.33.1",
       "suggested_sdk_name": "temurin-11",
       "shared_index_aliases": [
-        "temurin-11.0.33",
+        "temurin-11.0.33.1",
         "temurin-11",
-        "11.0.33",
+        "11.0.33.1",
         "11"
       ],
       "packages": [
         {
           "os": "windows",
           "arch": "x86_64",
-          "version": "11.0.33",
-          "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33%2B10/OpenJDK11U-jdk_x64_windows_hotspot_11.0.33_10.zip",
+          "version": "11.0.33.1",
+          "url": "https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.33.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.33.1_1.zip",
           "package_type": "zip",
-          "unpack_prefix_filter": "jdk-11.0.33+10",
-          "package_root_prefix": "jdk-11.0.33+10",
+          "unpack_prefix_filter": "jdk-11.0.33.1+1",
+          "package_root_prefix": "jdk-11.0.33.1+1",
           "package_to_java_home_prefix": "",
-          "archive_file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.33_10.zip",
-          "install_folder_name": "temurin-11.0.33",
-          "archive_size": 199525070,
-          "unpacked_size": 319997616,
-          "sha256": "cff2e75657c96a718974732b4a7b2c81a245a0b2ea44e6d8ea08cd0248d8fa9d"
+          "archive_file_name": "OpenJDK11U-jdk_x64_windows_hotspot_11.0.33.1_1.zip",
+          "install_folder_name": "temurin-11.0.33.1",
+          "archive_size": 199546220,
+          "unpacked_size": 320063457,
+          "sha256": "e4018284a707cbf7b76ac0daaaa8cfad256fb3282a4b0c1d8b2da2e8f3d14fcb"
         }
       ]
     },
